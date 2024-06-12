@@ -1,0 +1,57 @@
+.polugirn{
+	font-weight: 500;
+	font-style: italic	
+}
+.otst{
+	margin-top: 30px;
+    margin-bottom: 60px;
+    padding-right: 160px;
+    padding-top: 30px;
+}   
+.otst1{
+	padding-left: 160px;
+}
+.size{
+	font-size: 17pt;
+}
+.size1{
+	font-size: 21pt;
+}
+.leftimg {
+	float:left; /* Выравнивание по левому краю */
+    margin: 0px 50px 10px 160px; /* Отступы вокруг картинки */
+}
+.leftimg1 {
+	float:left; /* Выравнивание по левому краю */
+    margin: 90px 50px 10px 160px; /* Отступы вокруг картинки */
+}  
+.leftimg2 {
+	float:left; /* Выравнивание по левому краю */
+    margin: 70px 50px 90px 160px; /* Отступы вокруг картинки */
+}
+.leftimg3 {
+	float:left; /* Выравнивание по левому краю */
+    margin: 70px 50px 170px 160px; /* Отступы вокруг картинки */
+}
+.leftimg4 {
+	float:left; /* Выравнивание по левому краю */
+    margin: 10px 50px 10px 160px; /* Отступы вокруг картинки */
+}
+.leftimg5 {
+	float:left; /* Выравнивание по левому краю */
+    margin: 0px 50px 10px 160px; /* Отступы вокруг картинки */
+}
+.leftimgtab{
+	float:left; /* Выравнивание по левому краю */
+    margin: 10px 50px 50px 160px; /* Отступы вокруг картинки */
+}
+.pol{
+	border-top: 3px solid #04030a57;
+}
+.zag{
+	font-size: 21pt;
+	font-style: fantasy;
+	padding-left: 650px;
+    padding-top: 30px;
+    
+}
